@@ -1,5 +1,5 @@
 # Holi <img align="center" src="https://media.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy-downsized-large.gif" width="10%" />
-# Hi ✨ <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" />, I'm Natalia 
+# Hi ✨ <img align="center" src="https://media.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy-downsized-large.gif" width="5%" />, I'm Natalia 
 
 
 <!--
