@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy-downsized-large.gif" width="200"/>
+  <h1 align="center"> Hi ✨👋 , I'm Natalia </h1>
 </div>
 
 
