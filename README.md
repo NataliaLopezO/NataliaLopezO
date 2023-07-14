@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy-downsized-large.gif" width="200"/>
 </div>
 
-### Hi there 👋
+
 
 <!--
 **NataliaLopezO/NataliaLopezO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
