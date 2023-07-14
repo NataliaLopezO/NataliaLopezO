@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src"https://media.giphy.com/media/sJWNLTclcvVmw/giphy.gif" />
+  <img src="https://media.giphy.com/media/sJWNLTclcvVmw/giphy.gif" />
   <h1 align="center"> Hi ✨👋 , I'm Natalia </h1>
 </div>
 
