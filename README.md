@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/3ndAvMC5LFPNMCzq7m" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-aww-eyebleach-3ndAvMC5LFPNMCzq7m">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/3ndAvMC5LFPNMCzq7m" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
   <h1 align="center"> Hi ✨👋 , I'm Natalia </h1>
 </div>
 
