@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/3ndAvMC5LFPNMCzq7m" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src"https://media.giphy.com/media/sJWNLTclcvVmw/giphy.gif" />
   <h1 align="center"> Hi ✨👋 , I'm Natalia </h1>
 </div>
 
