@@ -1,4 +1,4 @@
-# Holi <img align="center" src="https://media.giphy.com/media/qCJ9vdqTbdsKaVL2cB/giphy.gif" width="10%" />
+# Holi <img align="center" src="https://media.giphy.com/media/U9DvKcwEVv5njhZRRa/giphy.gif" width="10%" />
 # Hi ✨ <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" />, I'm Natalia 
 
 
