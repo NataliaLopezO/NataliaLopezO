@@ -64,8 +64,8 @@ I'm a Software Engineer student and I like to learn new things.
 
 # 📊 GitHub Stats:
 
-| <img src="https://readmestats.999857.xyz/api?username=natalialopezo&show_icons=true&count_private=true&hide_border=true&theme=dark" /> 
-| <img src="https://readmestats.999857.xyz/api/top-langs/?username=natalialopezo&langs_count=6&hide_border=true&layout=compact&theme=dark" /> |
+<img src="https://readmestats.999857.xyz/api?username=natalialopezo&show_icons=true&count_private=true&hide_border=true&theme=dark" /> 
+<img src="https://readmestats.999857.xyz/api/top-langs/?username=natalialopezo&langs_count=6&hide_border=true&layout=compact&theme=dark" /> 
 
 <img src="https://komarev.com/ghpvc/?username=natalialopezo">
 
