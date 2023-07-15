@@ -61,6 +61,7 @@ I'm a Software Engineer student and I like to learn new things.
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="30" />
 <!-- Jira -->
 <img arc="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="30" />
+</div>
 
 # 📊 GitHub Stats:
 
