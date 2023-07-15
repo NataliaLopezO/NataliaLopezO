@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://media.giphy.com/media/AgO9VR2a9KW1MSP73I/giphy.gif" width="50%" />
+  <img align="center" src="https://media.giphy.com/media/AgO9VR2a9KW1MSP73I/giphy.gif" width="15%" />
   <h1>Hi ✨<img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" />, I'm Natalia </h1>
 </div>
 
