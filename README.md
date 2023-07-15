@@ -67,11 +67,9 @@ I'm a Software Engineer student and I like to learn new things.
 <img src="https://readmestats.999857.xyz/api?username=natalialopezo&show_icons=true&count_private=true&hide_border=true&theme=dark" /> 
 <img src="https://readmestats.999857.xyz/api/top-langs/?username=natalialopezo&langs_count=6&hide_border=true&layout=compact&theme=dark" /> 
 
-<img src="https://komarev.com/ghpvc/?username=natalialopezo">
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=Natalia&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=natalialopezo">
 
 <!--
 **NataliaLopezO/NataliaLopezO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
