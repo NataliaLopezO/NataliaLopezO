@@ -65,6 +65,8 @@ I'm a Software Engineer student and I like to learn new things.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carolain3472&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+
 [![](https://visitcount.itsvg.in/api?id=Natalia&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
