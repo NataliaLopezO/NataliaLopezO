@@ -63,7 +63,12 @@ I'm a Software Engineer student and I like to learn new things.
 <img arc="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="30" />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=carolain3472&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+| <img src="https://readmestats.999857.xyz/api?username=natalialopezo&show_icons=true&count_private=true&hide_border=true&theme=dark" /> 
+| <img src="https://readmestats.999857.xyz/api/top-langs/?username=natalialopezo&langs_count=6&hide_border=true&layout=compact&theme=dark" /> |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+
+<img src="https://komarev.com/ghpvc/?username=juanescacha">
 
 ---
 
