@@ -62,7 +62,10 @@ I'm a Software Engineer student and I like to learn new things.
 <!-- Jira -->
 <img arc="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="30" />
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=carolain3472&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=Natalia&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **NataliaLopezO/NataliaLopezO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
